@@ -1,8 +1,12 @@
 # 💫 About Me:
+<div align="center">
 Hi, I'm Saul Lagos.
+</div>
 ---
+<div align="center">
 Software Developer
---
+</div>
+---
 I am currently seeking opportunities to grow professionally and contribute to important projects.
 
 
