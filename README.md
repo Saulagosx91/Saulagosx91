@@ -1,4 +1,8 @@
 # 💫 About Me:
+Hi, I'm Saul Lagos.
+---
+Software Developer
+--
 I am currently seeking opportunities to grow professionally and contribute to important projects.
 
 
