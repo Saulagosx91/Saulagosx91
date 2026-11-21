@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-Hi, I'm Saul Lagos.
+Hi, I'm Saul Lagos
 </div>
 ---
 <div align="center">
